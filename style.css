@@ -1,0 +1,17 @@
+h1{
+    color:#ffa500;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.text{
+    color:#0000ff;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.txt{
+    color: #008000;
+    font-size: 25px;
+    font-weight: 600;
+}
